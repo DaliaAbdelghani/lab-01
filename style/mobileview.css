@@ -1,16 +1,14 @@
 
-div {
-    padding:0;
-    margin:0;
-    border:solid;
-    text-align:center;
-}
 
-p {
-    display: inline-block;
-    vertical-align: middle;
-    font-weight: bold;
-}
+    
+    #container, main, html, body {
+        width: 480px;
+        height: 767px;
+        margin:0;
+        border:0;
+        padding:0;
+        text-align: center;
+   }
 
 #a {
     width:480px;
@@ -45,7 +43,7 @@ p {
 
 #f {
     float: right;
-    width:235px;
+    width:240px;
     height:250px;
     background-color: chocolate;
 }
@@ -59,7 +57,7 @@ p {
 
 #h {
     float: right;
-    width:235px;
+    width:240px;
     height:250px;
     background-color: tomato;
 }
@@ -71,9 +69,6 @@ p {
     background-color: teal;
 }
 
-#container {
-    width:480px;
- 
-}
+
 
 
