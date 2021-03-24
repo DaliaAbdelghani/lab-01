@@ -1,3 +1,16 @@
 
 @import 'mobileview.css';
 @import 'desktopview.css';
+
+div {
+    padding:0;
+    margin:0;
+    text-align:center;
+}
+
+p {
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
